@@ -1,2 +1,2 @@
 # Daniel John Varoli
-### Data scientist at Proton AI
+### ML Engineer and Lover Of Pizza
